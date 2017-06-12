@@ -1,4 +1,9 @@
 .portal{
+	height:20em;
     margin: 0 auto;
-    height:20em;
+}
+
+.search{
+	width:50%;
+	margin: 0 auto;
 }
